@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "HaiTT1",
+      "address": "Quảng Nam",
+      "point": 9
+    },
+    {
+      "id": 2,
+      "name": "HaiTT2",
+      "address": "Quảng Nam",
+      "point": 5
+    },
+    {
+      "id": 3,
+      "name": "HaiTT3",
+      "address": "Quảng Nam",
+      "point": 7
+    },
+    {
+      "name": "Tri",
+      "address": "Đà nẵng",
+      "point": 6,
+      "id": 4
+    }
+  ],
+  "classrooms": []
+}
