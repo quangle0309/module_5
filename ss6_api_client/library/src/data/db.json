@@ -3,22 +3,26 @@
     {
       "id": 2,
       "title": "Chiếc thuyền ngoài xa",
-      "quantity": 10
+      "quantity": 10,
+      "publicationDate": "1985-01-12"
     },
     {
       "id": 5,
       "title": "Rừng xà nu",
-      "quantity": 10
+      "quantity": 10,
+      "publicationDate": "1967-01-01"
     },
     {
       "id": 6,
       "title": "Người lái đò sông đà",
-      "quantity": 10
+      "quantity": 10,
+      "publicationDate": "1996-01-01"
     },
     {
+      "id": 7,
       "title": "Cánh đồng bất tận",
-      "quantity": 99,
-      "id": 7
+      "quantity": 15,
+      "publicationDate": "1885-01-01"
     }
   ]
 }

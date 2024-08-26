@@ -50,3 +50,13 @@
             return null;
         }
     }
+
+    export const getBookByDateRange = async (start, end) => {
+        try {
+            let res = await axios.get(baseURL + `?publicationDate_gte=${start}&publicationDate_lte=${end}`);
+            return res.data;
+        } catch (e) {
+            console.log(e)
+            return null;
+        }
+    }
